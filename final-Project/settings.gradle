@@ -1,0 +1,5 @@
+rootProject.name = 'final-Project'
+include 'jieun-core'
+include 'jieun-api'
+include 'jieun-batch'
+
