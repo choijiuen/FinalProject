@@ -37,14 +37,14 @@ subprojects {
     }
 }
 
-project(':calendar-api') {
+project(':jieun-api') {
     dependencies {
-        implementation project(':calendar-core')
+        implementation project(':jieun-core')
     }
 }
 
-project(':calendar-batch') {
+project(':jieun-batch') {
     dependencies {
-        implementation project(':calendar-core')
+        implementation project(':jieun-core')
     }
 }
